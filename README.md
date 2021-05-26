@@ -9,3 +9,4 @@
 
 </body>
 </html>
+Languages used for the front end are HTML, CSS, JavaScript while those used for the backend include Java, Ruby, Python, . Net.
